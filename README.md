@@ -5,7 +5,9 @@ Motivated and detail-oriented IT professional with a Diploma in Information & Co
 EDUCATION
 
 Dialogue Institute of Technology & Management
+
 Diploma in Information & Communication Technology
+
 September 2023 – July 2025 Upper Credit (A-)
 
 CERTIFICATIONS
