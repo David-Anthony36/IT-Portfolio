@@ -10,6 +10,7 @@ CERTIFICATIONS
 * Cisco Certified Support Technician (CCST) Cybersecurity 
 * Splunk Certified Cybersecurity Defense Analyst Certification
 * Cisco Networking Academy Badges
+
 SKILLS
 Hardware Troubleshooting, Software Installation and Configuration, Windows Operating System Support, User Account Management, Help Desk Support, Remote Technical Support, Technical Documentation, Customer Service, Technical Support, Basic System Administration, Ticket Handling and Documentation, Incident Management, Service Desk Operations, Technical Troubleshooting, TCP/IP Networking, IP Addressing and Subnetting, Network Troubleshooting, Network Device Configuration, Switching and Routing Fundamentals, Wireless Networking, Network Monitoring, cybersecurity operations, Network Security Fundamentals, Security Fundamentals, Threat Detection, Risk Management, Vulnerability Assessment, Security Monitoring, Incident Response Fundamentals, Access Control, Security Awareness, Security Best Practices, Splunk Fundamentals, Log Analysis, SIEM Concepts, Security Event Monitoring, Dashboard Creation, Data Visualization, Security Investigation, and Alert Monitoring.
 Tools & Technologies
