@@ -1,4 +1,4 @@
-PROFESSIONAL SUMMARY
+David Anthony - IT Portfolio
 
 Motivated and detail-oriented IT professional with a Diploma in Information & Communication Technology and industry-recognized Cisco certifications in IT Support, Networking, Cybersecurity, and Cybersecurity Defense Analysis. Skilled in troubleshooting, network fundamentals, cybersecurity operations, and technical support. Passionate about learning new technologies and seeking an entry-level IT Support, Network Support, Help Desk, or Cybersecurity Analyst position where I can contribute and continue developing my technical expertise.
 
@@ -8,7 +8,7 @@ Dialogue Institute of Technology & Management
 
 Diploma in Information & Communication Technology
 
-September 2023 – July 2025 Upper Credit (A-)
+September 2023 – May 2025 Upper Credit (A-)
 
 CERTIFICATIONS
 
