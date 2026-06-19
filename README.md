@@ -17,6 +17,7 @@ CERTIFICATIONS
 * Cisco Certified Support Technician (CCST) Cybersecurity 
 * Splunk Certified Cybersecurity Defense Analyst Certification
 * Cisco Networking Academy Badges
+* Jobberman Soft Skills Certification
 
 SKILLS
 
