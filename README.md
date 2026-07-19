@@ -10,6 +10,13 @@ Diploma in Information & Communication Technology
 
 September 2023 – May 2025 Upper Credit (A-)
 
+Certificate in Cybersecurity
+
+Dialogue Institute of Technology & Management
+
+June 2025 Upper Credit
+
+
 CERTIFICATIONS
 
 	Cisco Certified Support Technician (CCST) IT Support 
@@ -19,6 +26,8 @@ CERTIFICATIONS
 	Cisco Certified Support Technician (CCST) Cybersecurity 
 
 	Splunk Certified Cybersecurity Defense Analyst Certification
+
+	Splunk Education Certifications
 
 	Cisco Networking Academy Badges
 
@@ -68,7 +77,7 @@ TOOLS & TECHNOLOGIES
 
 	Router, Switches, and Wireless Access Points
 
-	Splunk (Learning in Progress)
+	Splunk
 
 CAREER OBJECTIVE
 
