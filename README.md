@@ -23,16 +23,17 @@ Service Desk Job Simulation (Forage – Datacom)
 
 August 2026 | Remote (Virtual Experience)
 
-• Completed a virtual IT Service Desk job simulation...
+- Completed a virtual IT Service Desk job simulation for Datacom's Managed Services team.
 
-• Applied ITIL service management practices...
+- Resolved simulated IT support incidents using structured troubleshooting and incident management processes.
 
-• Diagnosed and resolved a simulated network outage...
+- Applied ITIL service management practices by categorizing, logging, prioritizing, and escalating support tickets.
 
-• Communicated professionally with end users...
+- Diagnosed and resolved a simulated network outage while assessing ticket impact and urgency.
 
-• Strengthened technical support and incident management skills..
+- Communicated professionally with end users through clear and empathetic follow-up messages.
 
+- Strengthened skills in technical troubleshooting, customer support, incident management, and service desk operations.
 
 CERTIFICATIONS
 
