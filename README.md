@@ -51,6 +51,9 @@ CERTIFICATIONS
 
 	Jobberman Soft Skills Certification
 
+	Datacom Service Desk Job Simulation Certification
+
+
 PROFESSIONAL SKILLS
 
 	Technical troubleshooting
