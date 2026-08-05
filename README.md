@@ -16,6 +16,7 @@ Dialogue Institute of Technology & Management
 
 June 2025 Upper Credit
 
+
 WORK EXPERIENCE
 
 Service Desk Job Simulation (Forage – Datacom)
@@ -30,7 +31,7 @@ August 2026 | Remote (Virtual Experience)
 
 • Communicated professionally with end users...
 
-• Strengthened technical support and incident management skills
+• Strengthened technical support and incident management skills..
 
 
 CERTIFICATIONS
