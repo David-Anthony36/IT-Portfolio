@@ -19,6 +19,24 @@ June 2025 Upper Credit
 
 WORK EXPERIENCE
 
+Digital Innovation & Technology Specialist — Kitoko Hearth
+
+August 2026 | Volunteer | Remote | Present
+
+- Supporting Kitoko Hearth’s digital innovation and technology initiatives through creative, technical, and digital solutions.
+
+- Contributing to the development and management of digital assets, visual content, and technology-driven projects that strengthen the organization’s online presence.
+
+- Applying skills in AI, cybersecurity, networking, and IT support to support technology-focused initiatives and improve digital operations.
+
+- Supporting website planning, digital design, UI/UX concepts, and creative technology projects to improve user engagement and digital experiences.
+
+- Assisting with the development of professional visual materials, volunteer spotlight campaigns, and digital communications aligned with the organization’s brand identity.
+
+- Collaborating with team members to identify technology and digital needs, develop practical solutions, and support the organization’s mission through innovation.
+
+- Strengthening practical experience in digital innovation, technology support, creative problem-solving, cybersecurity awareness, networking, and IT operations.
+
 Service Desk Job Simulation (Forage – Datacom)
 
 August 2026 | Remote (Virtual Experience)
