@@ -53,6 +53,19 @@ August 2026 | Remote (Virtual Experience)
 
 - Strengthened skills in technical troubleshooting, customer support, incident management, and service desk operations.
 
+Cybersecurity	Job	Simulation (Forage - Mastercard)
+
+August 2026 | Remote (Virtual Experience)
+
+- Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
+
+- Helped identify and report security threats such as phishing 
+
+- Analyzed and identified which areas of the business needed more robust security training and implemented training courses and  procedures for those teams
+
+- Design a phishing	email	simulation Interpret	phishing	simulation	results
+
+
 CERTIFICATIONS
 
 	Cisco Certified Support Technician (CCST) IT Support 
@@ -70,6 +83,8 @@ CERTIFICATIONS
 	Jobberman Soft Skills Certification
 
 	Datacom Service Desk Job Simulation Certification
+
+	Mastercard Cybersecurity Job Simulation Certification
 
 
 PROFESSIONAL SKILLS
@@ -118,9 +133,11 @@ TOOLS & TECHNOLOGIES
 
 	Splunk
 
-CAREER OBJECTIVE
+ADDITIONAL INFORMATION
 
-To obtain an entry-level IT Support Specialist, Network Support Technician, Help Desk Technician, or Junior Cybersecurity Analyst, SOC Analyst (Entry Level) position, where I can apply my technical skills, gain hands-on experience, and contribute to organizational success while pursuing advanced certifications such as CompTIA Security+ and Cisco CCNA.
+Work Preference: Full-time | Remote / Hybrid | Willing to relocate
+
+Language: English — Fluent
   
 
   
