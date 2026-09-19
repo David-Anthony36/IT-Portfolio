@@ -1,1 +1,301 @@
+🔐 Cybersecurity Portfolio
+
+Overview
+
+This section documents my hands-on cybersecurity learning journey,
+practical security exercises, cybersecurity job simulations,
+security-focused projects, certifications, and technical development.
+
+My cybersecurity work focuses on developing practical knowledge in
+security fundamentals, threat detection, vulnerability awareness,
+security monitoring, access control, incident response, network
+security, and defensive security operations.
+
+My networking and IT support experience also provides a strong technical
+foundation for understanding how systems, networks, users, and security
+controls interact.
+
+🎯 Cybersecurity Objectives
+
+Through my cybersecurity studies, labs, simulations, and projects, I have
+developed practical knowledge in:
+
+- Cybersecurity fundamentals
+- Security principles and controls
+- Threat identification
+- Vulnerability awareness
+- Network security
+- Access control
+- Authentication and authorization
+- Security monitoring
+- Log analysis
+- SIEM concepts
+- Incident response fundamentals
+- Security documentation
+- Risk awareness
+- Defensive security practices
+- Cybersecurity awareness
+- Secure system administration
+
+🧪 Cybersecurity Labs & Practical Work
+
+1. Cybersecurity Fundamentals
+
+Topics Covered
+
+- Introduction to cybersecurity
+- Information security principles
+- Threats and vulnerabilities
+- Security controls
+- Risk awareness
+- Security best practices
+- Defensive security concepts
+
+Skills Demonstrated
+
+- Understanding cybersecurity terminology
+- Identifying common security risks
+- Understanding security controls
+- Applying security principles to technology environments
+- Security awareness and documentation
+
+2. Network Security
+
+My networking background supports my cybersecurity development by providing
+practical knowledge of network communication, addressing, switching,
+wireless networking, and connectivity.
+
+Topics Covered
+
+- TCP/IP
+- IPv4 and IPv6
+- Network segmentation
+- VLANs
+- Network access
+- Secure network administration
+- Network troubleshooting
+- Network defense concepts
+
+Skills Demonstrated
+
+- Understanding network-based security risks
+- Recognizing the relationship between networking and cybersecurity
+- Understanding network segmentation
+- Identifying network communication patterns
+- Applying secure networking concepts
+
+3. Threat Detection & Security Monitoring
+
+Topics Covered
+
+- Threat detection
+- Security events
+- Log analysis
+- Security monitoring
+- Alert investigation
+- SIEM concepts
+- Security operations
+
+Practical Skills
+
+- Reviewing security-related information
+- Identifying suspicious activity
+- Understanding security alerts
+- Working with security logs
+- Understanding SIEM workflows
+- Supporting security monitoring activities
+
+4. Vulnerability & Risk Awareness
+
+Topics Covered
+
+- Vulnerabilities
+- Security risks
+- Threat identification
+- Risk assessment concepts
+- Security controls
+- Defensive measures
+
+Skills Demonstrated
+
+- Identifying potential security weaknesses
+- Understanding threat and vulnerability relationships
+- Documenting security observations
+- Understanding basic risk mitigation
+- Applying security best practices
+
+5. Authentication & Access Control
+
+Topics Covered
+
+- Authentication
+- Authorization
+- Access control
+- User permissions
+- Account security
+- Least privilege
+- Role-based access concepts
+
+Skills Demonstrated
+
+- Understanding authentication mechanisms
+- Understanding authorization
+- Applying access control principles
+- Understanding least-privilege concepts
+- Recognizing risks associated with excessive permissions
+
+6. Incident Response Fundamentals
+
+Topics Covered
+
+- Security incident identification
+- Investigation fundamentals
+- Incident documentation
+- Containment concepts
+- Response procedures
+- Recovery concepts
+
+Skills Demonstrated
+
+- Understanding incident response processes
+- Documenting security events
+- Analyzing security information
+- Understanding incident lifecycle concepts
+- Supporting defensive security operations
+
+💻 Cybersecurity Job Simulations
+
+Mastercard Cybersecurity Job Simulation
+
+Completed a cybersecurity job simulation designed to provide practical
+exposure to security-related tasks and professional cybersecurity
+workflows.
+
+Skills Developed
+
+- Cybersecurity analysis
+- Security awareness
+- Threat analysis
+- Security documentation
+- Professional communication
+- Problem solving
+
+🛡️ Cybersecurity Certifications & Training
+
+Professional Certifications
+
+Cisco Certified Support Technician — Cybersecurity
+
+Developed foundational knowledge across cybersecurity concepts,
+security threats, defensive practices, and cybersecurity support.
+
+Splunk Certified Cybersecurity Defense Analyst
+
+Developed practical knowledge related to cybersecurity defense analysis,
+security monitoring, investigation, and security operations.
+
+Cisco Networking Academy & Cybersecurity Learning
+
+Relevant cybersecurity learning includes:
+
+- Introduction to Cybersecurity
+- Cyber Threat Management
+- Network Defense
+- Network Support and Security
+- Security and Connectivity Support
+- Cybersecurity Defense Analyst Career Path
+
+These learning activities complement my practical networking and IT
+support experience.
+
+🔎 Security Operations & Splunk
+
+My cybersecurity development includes exposure to Splunk and security
+operations concepts.
+
+Areas of Learning
+
+- SIEM concepts
+- Security logs
+- Log analysis
+- Security monitoring
+- Dashboards
+- Detection concepts
+- Security alerts
+- Threat investigation
+- Security use cases
+
+Related Tools
+
+- Splunk
+- Splunk Enterprise Security concepts
+- Splunk SOAR concepts
+- Security monitoring workflows
+
+🛠️ Technologies & Tools
+
+Security Tools
+
+- Splunk
+- Wireshark
+- Cisco Packet Tracer
+- GitHub
+
+Networking & Infrastructure
+
+- Cisco routers
+- Cisco switches
+- Wireless access points
+- TCP/IP
+- IPv4
+- IPv6
+- VLANs
+- SSH
+
+IT Support
+
+- Windows
+- Microsoft Office
+- Hardware troubleshooting
+- Software configuration
+- User account management
+- Technical documentation
+
+Development & Digital Tools
+
+- GitHub
+- AI-powered tools
+- Digital design tools
+- Web technologies
+
+📊 Cybersecurity Skills Demonstrated
+
+| Area | Skills |
+|---|---|
+| Security Fundamentals | Threats, vulnerabilities, controls, security principles |
+| Network Security | TCP/IP, VLANs, segmentation, network defense |
+| Threat Detection | Security events, alerts, monitoring |
+| SIEM | Splunk, logs, dashboards, security analysis |
+| Access Control | Authentication, authorization, permissions |
+| Incident Response | Identification, documentation, response concepts |
+| Risk | Vulnerability and risk awareness |
+| Security Operations | Monitoring, investigation, defensive workflows |
+| Documentation | Technical and security documentation |
+| IT Support | Troubleshooting, systems, user support |
+
+📁 Portfolio Organization
+
+The cybersecurity section is organized to separate practical work,
+certifications, and security learning.
+
+```text
+02-Cybersecurity/
+│
+├── Cybersecurity-Labs/
+│
+├── Security-Fundamentals/
+│
+├── Certifications/
+│
+└── Job-Simulations/
 
