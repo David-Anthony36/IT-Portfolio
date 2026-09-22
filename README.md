@@ -165,8 +165,7 @@ Cisco
 - Cisco Certified Support Technician (CCST) — Networking
 - Cisco Certified Support Technician (CCST) — Cybersecurity
 - Cisco Networking Academy certifications and badges
-- Build Your Resume with AI — Cisco Networking Academy
-
+ 
 Splunk
 
 - Splunk Certified Cybersecurity Defense Analyst
