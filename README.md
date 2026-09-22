@@ -1,143 +1,243 @@
-ANTHONY KELECHI DAVID- IT Portfolio
+ANTHONY KELECHI DAVID
 
-Motivated and detail-oriented IT professional with a Diploma in Information & Communication Technology and industry-recognized Cisco certifications in IT Support, Networking, Cybersecurity, and Cybersecurity Defense Analysis. Skilled in troubleshooting, network fundamentals, cybersecurity operations, and technical support. Passionate about learning new technologies and seeking an entry-level IT Support, Network Support, Help Desk, or Cybersecurity Analyst position where I can contribute and continue developing my technical expertise.
+IT Support | Networking | Cybersecurity | Digital Technology
 
-EDUCATION
+Diploma-qualified IT professional building practical experience across
+IT support, networking, cybersecurity, security operations, AI-enabled
+technology, and digital innovation.
 
+I combine hands-on technical labs, professional certifications,
+job simulations, volunteer technology experience, and project-based
+learning to develop practical IT and cybersecurity capabilities.
+
+👨‍💻 Professional Profile
+
+- IT Support & Service Desk
+- Networking & Infrastructure
+- Cybersecurity & Security Operations
+- Technical Troubleshooting
+- Digital Innovation & Technology
+- AI & Modern Digital Tools
+- Technical Documentation
+
+🚀 Featured Experience & Projects
+
+🔹 Kitoko Hearth — Digital Innovation & Technology Specialist
+
+**Volunteer | August 2026 – Present**
+
+Contributing to digital innovation, website support, UI/UX, digital
+design, technology initiatives, creative projects, AI tools,
+cybersecurity awareness, networking, and IT support.
+
+**Key contributions:**
+- Website and digital platform support
+- Digital design and visual communication
+- Volunteer spotlight and campaign materials
+- UI/UX and digital experience support
+- Digital assets and creative technology projects
+
+🌐 **[View Kitoko Hearth Project](./Projects/Kitoko-Hearth/)**
+
+🔹 DSHub Build2Earn — College Football Fantasy
+
+**Cohort C | Team 4 | Cybersecurity Engineering | August 2026 – Present**
+
+Contributing to a team-based fantasy sports platform through cybersecurity
+requirements, security architecture, threat modeling, access control,
+API/database security, and AI/ML requirements.
+
+**Key deliverables:**
+- Product Requirements Document (PRD)
+- Technical Requirements Document (TRD)
+- Cybersecurity Requirements
+- Security Architecture
+- Threat Model
+- AI/ML Requirements & Use Cases
+
+📁 **[View DSHub Project](./DSHUB%20PROJECT/College%20Football%20Fantasy/)**
+
+🌐 Networking
+
+Hands-on Cisco networking labs and practical exercises covering:
+
+- Network fundamentals
+- Cisco IOS configuration
+- Switching and VLANs
+- IPv4 & IPv6
+- MAC & IP addressing
+- Router interfaces
+- Wireless networking
+- Network troubleshooting
+- SSH configuration
+- Connectivity verification
+
+**Tools:** Cisco Packet Tracer, Wireshark, Cisco routers, switches,
+and wireless networking equipment.
+
+📁 **[Explore Networking](./01-Networking/)**
+
+🔐 Cybersecurity
+
+Practical cybersecurity development covering:
+
+- Security fundamentals
+- Network security
+- Threat detection
+- Security monitoring
+- SIEM concepts
+- Vulnerability awareness
+- IAM & access control
+- Incident response fundamentals
+- Security documentation
+
+Job Simulations
+
+**Tata — Cybersecurity Analyst | Forage | September 2026**
+- IAM fundamentals
+- IAM strategy assessment
+- Custom IAM solutions
+- Platform integration
+
+**Mastercard — Cybersecurity | Forage**
+- Security awareness
+- Phishing identification and reporting
+- Security training analysis
+- Phishing simulation
+
+📁 **[Explore Cybersecurity](./02-Cybersecurity/)**
+
+🛡️ Splunk & Security Operations
+
+Developing practical knowledge in:
+
+- SIEM concepts
+- Security monitoring
+- Log analysis
+- Dashboards
+- Detection engineering
+- Security use cases
+- Splunk security operations
+- SOC workflows
+
+📁 **[Explore Splunk Security Operations](./04-Splunk%20Certified%20Cybersecurity%20Defense%20Analyst/)**
+
+💻 IT Support
+
+Practical IT support and service desk development covering:
+
+- Hardware & software troubleshooting
+- Windows support
+- Help desk operations
+- Ticket handling
+- User support
+- Network troubleshooting
+- Software configuration
+- Technical documentation
+- Customer communication
+
+Datacom Service Desk Job Simulation
+
+Completed a practical service desk simulation involving ticket
+prioritization, incident management, troubleshooting, network outage
+analysis, escalation, and user communication.
+
+📁 **[Explore IT Support](./03-IT-Support/)**
+
+🤖 Artificial Intelligence
+
+Developing practical experience with AI and modern digital tools for:
+
+- AI-assisted productivity
+- Digital innovation
+- Technical workflows
+- Creative technology
+- AI/ML project requirements
+- Modern technology solutions
+
+📁 **[Explore AI](./05-Artificial%20Intelligence%20(AI)/)**
+
+🎓 Certifications
+
+Cisco
+
+- Cisco Certified Support Technician (CCST) — IT Support
+- Cisco Certified Support Technician (CCST) — Networking
+- Cisco Certified Support Technician (CCST) — Cybersecurity
+- Cisco Networking Academy certifications and badges
+- Build Your Resume with AI — Cisco Networking Academy
+
+Splunk
+
+- Splunk Certified Cybersecurity Defense Analyst
+- Splunk security education and training
+
+Professional Development
+
+- Jobberman Soft Skills Certification
+- Datacom Service Desk Job Simulation
+- Mastercard Cybersecurity Job Simulation
+- Tata Cybersecurity Analyst Job Simulation
+
+🛠️ Technologies & Tools
+
+**IT Support**
+- Windows
+- Microsoft Office
+- Hardware & software troubleshooting
+- User support
+
+**Networking**
+- Cisco Packet Tracer
+- Wireshark
+- Cisco routers & switches
+- Wireless networking
+- TCP/IP
+- IPv4 / IPv6
+- VLANs
+- SSH
+
+**Cybersecurity**
+- Splunk
+- SIEM concepts
+- Security monitoring
+- Threat detection
+- Access control
+- Security documentation
+
+**Digital & AI**
+- GitHub
+- AI-powered tools
+- Canva
+- UI/UX principles
+- Digital design tools
+
+🎓 Education
+
+**Diploma in Information & Communication Technology**
 Dialogue Institute of Technology & Management
+September 2023 – May 2025 | Upper Credit (A-)
 
-Diploma in Information & Communication Technology
-
-September 2023 – May 2025 Upper Credit (A-)
-
-Certificate in Cybersecurity
-
+**Certificate in Cybersecurity**
 Dialogue Institute of Technology & Management
-
-June 2025 Upper Credit
-
-
-WORK EXPERIENCE
-
-Digital Innovation & Technology Specialist — Kitoko Hearth
-
-August 2026 | Volunteer | Remote | Present
-
-- Supporting Kitoko Hearth’s digital innovation and technology initiatives through creative, technical, and digital solutions.
-
-- Contributing to the development and management of digital assets, visual content, and technology-driven projects that strengthen the organization’s online presence.
-
-- Applying skills in AI, cybersecurity, networking, and IT support to support technology-focused initiatives and improve digital operations.
-
-- Supporting website planning, digital design, UI/UX concepts, and creative technology projects to improve user engagement and digital experiences.
-
-- Assisting with the development of professional visual materials, volunteer spotlight campaigns, and digital communications aligned with the organization’s brand identity.
-
-- Collaborating with team members to identify technology and digital needs, develop practical solutions, and support the organization’s mission through innovation.
-
-- Strengthening practical experience in digital innovation, technology support, creative problem-solving, cybersecurity awareness, networking, and IT operations.
-
-Service Desk Job Simulation (Forage – Datacom)
-
-August 2026 | Remote (Virtual Experience)
-
-- Completed a virtual IT Service Desk job simulation for Datacom's Managed Services team.
-
-- Resolved simulated IT support incidents using structured troubleshooting and incident management processes.
-
-- Applied ITIL service management practices by categorizing, logging, prioritizing, and escalating support tickets.
-
-- Diagnosed and resolved a simulated network outage while assessing ticket impact and urgency.
-
-- Communicated professionally with end users through clear and empathetic follow-up messages.
-
-- Strengthened skills in technical troubleshooting, customer support, incident management, and service desk operations.
-
-Cybersecurity	Job	Simulation (Forage - Mastercard)
-
-August 2026 | Remote (Virtual Experience)
-
-- Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
-
-- Helped identify and report security threats such as phishing 
-
-- Analyzed and identified which areas of the business needed more robust security training and implemented training courses and  procedures for those teams
-
-- Design a phishing	email	simulation Interpret	phishing	simulation	results
-
-
-CERTIFICATIONS
-
-	Cisco Certified Support Technician (CCST) IT Support 
-
-	Cisco Certified Support Technician (CCST) Networking 
-
-	Cisco Certified Support Technician (CCST) Cybersecurity 
-
-	Splunk Certified Cybersecurity Defense Analyst Certification
-
-	Splunk Education Certifications
-
-	Cisco Networking Academy Badges
-
-	Jobberman Soft Skills Certification
-
-	Datacom Service Desk Job Simulation Certification
-
-	Mastercard Cybersecurity Job Simulation Certification
-
-
-PROFESSIONAL SKILLS
-
-	Technical troubleshooting
-
-	Customer service and communication
-
-	Help desk and ticket handling
-
-	Remote support assistance
-
-	Windows operating system support
-
-	Network troubleshooting (TCP/IP, IP addressing)
-
-	User account management
-
-	Software installation and configuration
-
-	Technical documentation
-
-	Problem-solving and analytical thinking
-
-	Queue management
-
-	Team collaboration
-
-	Time Management
-
-	Adaptability and Attention to Detail
-
-TOOLS & TECHNOLOGIES  
-
-	Microsoft Office Suite
-
-	Windows Operating Systems
-
-	Microsoft Windows
-
-	Wireshark
-
-	Cisco packet Tracer
-
-	Router, Switches, and Wireless Access Points
-
-	Splunk
-
-ADDITIONAL INFORMATION
-
-Work Preference: Full-time | Remote / Hybrid | Willing to relocate
-
-Language: English — Fluent
-  
-
-  
+June 2025 | Upper Credit
+
+📚 Portfolio Structure
+
+```text
+IT-Portfolio/
+│
+├── 01-Networking/
+├── 02-Cybersecurity/
+├── 03-IT-Support/
+├── 04-Splunk Certified Cybersecurity Defense Analyst/
+├── 05-Artificial Intelligence (AI)/
+├── 06-Education/
+├── 07-Documentation/
+├── 08-Soft skills/
+│
+├── DSHUB PROJECT/
+│ └── College Football Fantasy/
+│
+└── Projects/
+└── Kitoko-Hearth/
