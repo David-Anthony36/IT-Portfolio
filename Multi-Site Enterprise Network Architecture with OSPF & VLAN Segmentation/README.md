@@ -28,7 +28,7 @@ The design implements logical segmentation via **Virtual Local Area Networks (VL
 # 📑 Implementation & Verification Screenshots
 
 # 1. Functional Network Topology Map
-![Topology Diagram](Topology%20Diagram.png)
+![Network Topology](topology.png)
 *Caption:* Fully converged multi-site topology highlighting visual link convergence and baseline connectivity between corporate endpoints and core infrastructure.
 
 # 2. OSPF Dynamic Routing Table Convergence
