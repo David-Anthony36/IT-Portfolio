@@ -57,6 +57,20 @@ API/database security, and AI/ML requirements.
 
 📁 **[View DSHub Project](./DSHUB%20PROJECT/College%20Football%20Fantasy/)**
 
+🔹 Multi-Site Enterprise Network Architecture with OSPF & VLAN Segmentation
+
+**Enterprise Networking Project | November 2026**
+
+Designed, deployed, and validated a high-availability dual-site network architecture connecting a corporate Headquarters (HQ) to a regional Abuja Branch Office in Cisco Packet Tracer.
+
+**Key implementations:**
+- **Logical Segmentation:** Configured VLAN 10 (HR) and VLAN 20 (IT) to restrict broadcast domains and enhance departmental security.
+- **Inter-VLAN Routing:** Implemented Router-on-a-Stick using 802.1Q subinterfaces on the HQ gateway.
+- **Dynamic Routing Engine:** Programmed single-area OSPFv2 (Area 0) across a point-to-point serial WAN link (`10.0.0.0/30`) to automate cross-branch route discovery.
+- **Network Verification:** Validated end-to-end data plane accessibility using systemic ICMP sweeps and verified control plane convergence via IOS routing tables.
+
+📁 **[View Multi-Site Enterprise Network Project](./Multi-Site%20Enterprise%20Network%20Architecture%20with%20OSPF%20%26%20VLAN%20Segmentation/)**
+
 🌐 Networking
 
 Hands-on Cisco networking labs and practical exercises covering:
@@ -64,6 +78,8 @@ Hands-on Cisco networking labs and practical exercises covering:
 - Network fundamentals
 - Cisco IOS configuration
 - Switching and VLANs
+- Dynamic routing (OSPFv2)
+- Inter-VLAN routing (802.1Q)
 - IPv4 & IPv6
 - MAC & IP addressing
 - Router interfaces
@@ -157,6 +173,12 @@ Developing practical experience with AI and modern digital tools for:
 
 📁 **[Explore AI](./05-Artificial%20Intelligence%20(AI)/)**
 
+📚 Digital Literacy
+
+Developing fundamental proficiencies in core digital applications, internet architectures, online safety, information processing, and modern workspace technology toolsets to manage professional workflows efficiently.
+
+📁 **[Explore Digital Literacy](./09-Digital%20Literacy/)**
+
 🎓 Certifications
 
 Cisco
@@ -165,7 +187,7 @@ Cisco
 - Cisco Certified Support Technician (CCST) — Networking
 - Cisco Certified Support Technician (CCST) — Cybersecurity
 - Cisco Networking Academy certifications and badges
- 
+
 Splunk
 
 - Splunk Certified Cybersecurity Defense Analyst
@@ -194,6 +216,8 @@ Professional Development
 - TCP/IP
 - IPv4 / IPv6
 - VLANs
+- OSPFv2
+- Router-on-a-Stick (802.1Q)
 - SSH
 
 **Cybersecurity**
@@ -234,9 +258,13 @@ IT-Portfolio/
 ├── 06-Education/
 ├── 07-Documentation/
 ├── 08-Soft skills/
+├── 09-Digital Literacy/
 │
 ├── DSHUB PROJECT/
 │ └── College Football Fantasy/
 │
+├── Multi-Site Enterprise Network Architecture with OSPF & VLAN Segmentation/
+│
 └── Projects/
 └── Kitoko-Hearth/
+```
