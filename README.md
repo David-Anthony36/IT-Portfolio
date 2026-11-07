@@ -71,6 +71,20 @@ Designed, deployed, and validated a high-availability dual-site network architec
 
 📁 **[View Multi-Site Enterprise Network Project](./Multi-Site%20Enterprise%20Network%20Architecture%20with%20OSPF%20%26%20VLAN%20Segmentation/)**
 
+🔹 Perimeter Firewall Deployment & DMZ Security Infrastructure via Cisco Extended ACLs
+
+**Network Security Project | November 2026**
+
+Engineered and implemented a hardened edge perimeter security matrix using a Cisco layer 3 routing platform functioning as an Enterprise Firewall to isolate trusted environments and protect a public-facing DMZ server.
+
+**Key implementations:**
+- **Perimeter Access Control:** Configured an Extended Named Access Control List (ACL) on the untrusted external interface to inspect transport layer headers.
+- **Protocol Filtering:** Restricted public service vectors to explicitly allow HTTP (Port 80) and HTTPS (Port 443) traffic directly to the web server, dropping unauthorized ingress requests.
+- **Reconnaissance Suppression:** Explicitly denied incoming ICMP traffic (Pings) to suppress automated host discovery probes and mask internal network topology.
+- **DMZ Segmentation:** Isolated corporate application components into a distinct DMZ subnet to mitigate risk and halt potential lateral threat propagation.
+
+📁 **[View Perimeter Firewall Security Project](./Perimeter%20Firewall%20Deployment%20%26%20DMZ%20Security%20Infrastructure%20via%20Cisco%20Extended%20ACLs/)**
+
 🌐 Networking
 
 Hands-on Cisco networking labs and practical exercises covering:
@@ -265,6 +279,9 @@ IT-Portfolio/
 │
 ├── Multi-Site Enterprise Network Architecture with OSPF & VLAN Segmentation/
 │
+├── Perimeter Firewall Deployment & DMZ Security Infrastructure via Cisco Extended ACLs/
+│
 └── Projects/
 └── Kitoko-Hearth/
 ```
+
