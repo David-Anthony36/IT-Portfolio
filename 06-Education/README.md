@@ -8,6 +8,7 @@ September 2023 – May 2025 | Upper Credit (A-)
 **Certificate in Cybersecurity**
 Dialogue Institute of Technology & Management
 June 2025 | Upper Credit
+📄 **[View Cybersecurity Certificate](./06-Education/Certification/Certificate%20In%20Cybersecurity.pdf)**
 
 ---
 
