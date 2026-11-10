@@ -57,6 +57,20 @@ API/database security, and AI/ML requirements.
 
 📁 **[View DSHub Project](./DSHUB%20PROJECT/College%20Football%20Fantasy/)**
 
+🔹 High-Availability Gateway Redundancy Infrastructure via Hot Standby Router Protocol (HSRP)
+
+**High-Availability Networking Project | November 2026**
+
+Designed, deployed, and validated a fault-tolerant gateway topology in Cisco Packet Tracer using active/standby failover mechanisms to eliminate single-point-of-failure liabilities at the network edge.
+
+**Key implementations:**
+- **First-Hop Redundancy:** Configured an elastic shared Virtual IP gateway (`192.168.20.1`) to keep local host connections completely uninterrupted during path outages.
+- **Deterministic Prioritization:** Programmed specific HSRP priority attributes (`110` vs `100`) to guarantee predictable symmetric traffic flows through the designated active forwarder.
+- **State Machine Preemption:** Enabled preemption logic on the primary route interface, allowing automatic and seamless path re-capture upon device restoration.
+- **Cluster Diagnostics:** Validated sub-second topology failover times and confirmed control-plane state machines via structural IOS monitoring briefs.
+
+📁 **[View HSRP Redundancy Project](./High-Availability%20Gateway%20Redundancy%20Infrastructure%20via%20Hot%20Standby%20Router%20Protocol%20%28HSRP%29/)**
+
 🔹 Multi-Site Enterprise Network Architecture with OSPF & VLAN Segmentation
 
 **Enterprise Networking Project | November 2026**
@@ -94,6 +108,7 @@ Hands-on Cisco networking labs and practical exercises covering:
 - Switching and VLANs
 - Dynamic routing (OSPFv2)
 - Inter-VLAN routing (802.1Q)
+- First-Hop Redundancy Protocols (HSRP)
 - IPv4 & IPv6
 - MAC & IP addressing
 - Router interfaces
@@ -231,6 +246,7 @@ Professional Development
 - IPv4 / IPv6
 - VLANs
 - OSPFv2
+- Hot Standby Router Protocol (HSRP)
 - Router-on-a-Stick (802.1Q)
 - SSH
 
@@ -277,6 +293,8 @@ IT-Portfolio/
 ├── DSHUB PROJECT/
 │ └── College Football Fantasy/
 │
+├── High-Availability Gateway Redundancy Infrastructure via Hot Standby Router Protocol (HSRP)/
+│
 ├── Multi-Site Enterprise Network Architecture with OSPF & VLAN Segmentation/
 │
 ├── Perimeter Firewall Deployment & DMZ Security Infrastructure via Cisco Extended ACLs/
@@ -284,4 +302,3 @@ IT-Portfolio/
 └── Projects/
 └── Kitoko-Hearth/
 ```
-
